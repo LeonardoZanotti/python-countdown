@@ -1,4 +1,4 @@
-# Python- countdown
+# Python countdown
 Python countdown timer
 
 ## Running
